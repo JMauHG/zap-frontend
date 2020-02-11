@@ -1,0 +1,12 @@
+.pokemon {
+    border: 6px solid #e24144;
+    border-radius: 5px;
+    background: white;
+  }
+
+  .pokemon p {
+    margin: 0;
+    font-size: 32px;
+    text-transform: capitalize;
+    padding: 0 6px;
+  }
